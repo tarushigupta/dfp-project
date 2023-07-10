@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+textblob
+tweepy
+bs4
+statistics
+requests
+lxml
+scikit-learn
+plotly
