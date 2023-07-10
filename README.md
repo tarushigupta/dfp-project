@@ -39,3 +39,6 @@ Links of the library used
 
 •  Plotly - https://plotly.com/python/getting-started/
 
+
+This project was created by the following students of Carnegie Mellon University for the course 95888 Data Focussed Python
+Tarushi Gupta, Utkarsh Sharma, Arya Kothari, Manav Maharana
